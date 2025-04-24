@@ -1,2 +1,3 @@
-# C_charArrayUserDefined
-a c file with char array and you can easily take it.
+# 字符串数组数据结构
+
+里面有注释自行查看
